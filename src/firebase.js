@@ -4,7 +4,7 @@ import { getFirestore } from "firebase/firestore";
 import { getStorage } from "firebase/storage";
 
 
-
+{/*DO NOT COPY */}
 const firebaseConfig = {
   apiKey: "AIzaSyDuQusjpEAMoSMsNR--z4_14Dpwtu2-8cs",
   authDomain: "portfolio-responses-6afe7.firebaseapp.com",
